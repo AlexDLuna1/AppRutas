@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858889617446",
+    "project_id": "rutasitsabus",
+    "storage_bucket": "rutasitsabus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858889617446:android:9a4866bad8947b1d46a6e7",
+        "android_client_info": {
+          "package_name": "com.example.apprutas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmQC5A_-mWRBY9R2E-IlY12v0bVEH9oXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
