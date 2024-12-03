@@ -2,10 +2,8 @@
 
 Proyecto de universidad
 
-## Getting Started
+## Que es y cómo funciona:
 
-Itsabus:
-Que es y cómo funciona:
 Itsabus es una aplicación móvil interactiva básica para los estudiantes, tiene como propósito darle informacion mas detallada a los estudiantes ya sean de nuevo ingreso como los que ya llevan tiempo de las rutas establecidas por el instituto.
 
 En la parte inicial de la aplicación te dará una interfaz interactiva con las imágenes de lo que sería el transporte escolar, junto a este está un menú de opciones el cual esta divido en 4 secciones.
